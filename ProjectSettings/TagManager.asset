@@ -3,15 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BuildSurface
+  - Pillar
+  - Beam
+  - TopPlate
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - BuildSurface
   - Water
   - UI
-  - 
+  - BuildRaycast
   - 
   - 
   - 

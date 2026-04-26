@@ -8,14 +8,14 @@ public class WeightSpawner : MonoBehaviour
 
     void Update()
     {
-        // 按 1 生成小重量块
-        if (Input.GetKeyDown(KeyCode.Alpha1))
+        // 按 7 生成小重量块
+        if (Input.GetKeyDown(KeyCode.Alpha7))
         {
             SpawnSmallWeight();
         }
 
-        // 按 2 生成大重量块
-        if (Input.GetKeyDown(KeyCode.Alpha2))
+        // 按 8 生成大重量块
+        if (Input.GetKeyDown(KeyCode.Alpha8))
         {
             SpawnBusterWeight();
         }
