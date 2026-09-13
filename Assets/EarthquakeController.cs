@@ -58,3 +58,4 @@ public class EarthquakeController : MonoBehaviour
         platformRb.MovePosition(startPos);
     }
 }
+// ......//
