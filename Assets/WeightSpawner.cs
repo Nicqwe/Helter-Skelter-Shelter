@@ -31,4 +31,4 @@ public class WeightSpawner : MonoBehaviour
         Instantiate(busterWeightPrefab, spawnPoint.position, Quaternion.identity);
     }
 }
-// ......123//
+// ......12311//
